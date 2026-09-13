@@ -2,6 +2,8 @@
 
 Official implementation of the paper: **"Non-Contact Neuromorphic Emotion Inference via Gaze Interaction"**.
 
+**Status:** **Under review**
+
 This repository provides the spiking neural network (SNN) simulation framework built on **snnTorch**, incorporating device-calibrated RRAM (h-BN/WSe2) characteristics and Variation-Aware Training (VAT) to achieve robust, low-power social emotion decoding.
 
 ---
@@ -19,4 +21,3 @@ In strict compliance with the privacy regulations governed by our Institutional 
 ## 🛠️ Requirements & Installation
 
 This code is tested on Python 3.13.9 with PyTorch and snnTorch.
-
