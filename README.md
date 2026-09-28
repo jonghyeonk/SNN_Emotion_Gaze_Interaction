@@ -34,6 +34,7 @@ This code is tested on Python 3.13.9 with PyTorch and snnTorch (see 'requirement
 ├── 2. baseline_Other MLs.ipynb                    # [Python] Baseline models for traditional ML algorithms
 ├── 3. quantitative evaluation energy efficiency.ipynb # [Python] Energy efficiency computation and analysis
 ├── 4. Visualization.nb                            # [R] Visualization notebook for generating figures
+├── Requirements.txt
 ├── LICENSE
 └── README.md
 
