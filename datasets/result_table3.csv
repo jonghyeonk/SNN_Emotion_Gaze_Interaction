@@ -1,0 +1,73 @@
+"problem","indicator","model","Accuracy","Recall","Precision","F1"
+"Intimacy and non-Intimacy","single","RF",0.791,0.873,0.791,0.791
+"Intimacy and non-Intimacy","single","LGBM",0.821,0.903,0.821,0.821
+"Intimacy and non-Intimacy","single","CatBoost",0.8,0.886,0.8,0.8
+"Intimacy and non-Intimacy","single","FNN",0.78,0.676,0.828,0.744
+"Intimacy and non-Intimacy","single","FCN",0.803,0.716,0.85,0.773
+"Intimacy and non-Intimacy","single","SNN",0.836,0.827,0.827,0.827
+"Intimacy and non-Intimacy","interactive","RF",0.814,0.897,0.814,0.815
+"Intimacy and non-Intimacy","interactive","LGBM",0.836,0.917,0.836,0.837
+"Intimacy and non-Intimacy","interactive","CatBoost",0.834,0.906,0.834,0.834
+"Intimacy and non-Intimacy","interactive","FNN",0.812,0.768,0.823,0.794
+"Intimacy and non-Intimacy","interactive","FCN",0.803,0.716,0.85,0.773
+"Intimacy and non-Intimacy","interactive","SNN",0.842,0.823,0.839,0.831
+"Intimacy and non-Intimacy","integrated","RF",0.883,0.956,0.883,0.883
+"Intimacy and non-Intimacy","integrated","LGBM",0.944,0.986,0.944,0.944
+"Intimacy and non-Intimacy","integrated","CatBoost",0.93,0.98,0.93,0.93
+"Intimacy and non-Intimacy","integrated","FNN",0.938,0.92,0.947,0.933
+"Intimacy and non-Intimacy","integrated","FCN",0.944,0.916,0.964,0.939
+"Intimacy and non-Intimacy","integrated","SNN",0.944,0.935,0.945,0.94
+"Empathy and non-Empathy","single","RF",0.783,0.879,0.783,0.784
+"Empathy and non-Empathy","single","LGBM",0.812,0.901,0.812,0.813
+"Empathy and non-Empathy","single","CatBoost",0.804,0.892,0.804,0.804
+"Empathy and non-Empathy","single","FNN",0.763,0.707,0.815,0.756
+"Empathy and non-Empathy","single","FCN",0.777,0.72,0.833,0.77
+"Empathy and non-Empathy","single","SNN",0.856,0.847,0.857,0.852
+"Empathy and non-Empathy","interactive","RF",0.826,0.914,0.826,0.827
+"Empathy and non-Empathy","interactive","LGBM",0.852,0.934,0.852,0.853
+"Empathy and non-Empathy","interactive","CatBoost",0.851,0.931,0.851,0.852
+"Empathy and non-Empathy","interactive","FNN",0.811,0.775,0.855,0.812
+"Empathy and non-Empathy","interactive","FCN",0.826,0.791,0.873,0.826
+"Empathy and non-Empathy","interactive","SNN",0.85,0.869,0.851,0.86
+"Empathy and non-Empathy","integrated","RF",0.913,0.978,0.913,0.914
+"Empathy and non-Empathy","integrated","LGBM",0.961,0.994,0.961,0.961
+"Empathy and non-Empathy","integrated","CatBoost",0.953,0.991,0.953,0.953
+"Empathy and non-Empathy","integrated","FNN",0.949,0.948,0.955,0.952
+"Empathy and non-Empathy","integrated","FCN",0.948,0.932,0.967,0.949
+"Empathy and non-Empathy","integrated","SNN",0.951,0.952,0.955,0.953
+"Competition and Cooperation","single","RF",0.748,0.832,0.748,0.748
+"Competition and Cooperation","single","LGBM",0.816,0.903,0.816,0.817
+"Competition and Cooperation","single","CatBoost",0.793,0.879,0.793,0.793
+"Competition and Cooperation","single","FNN",0.75,0.681,0.808,0.739
+"Competition and Cooperation","single","FCN",0.746,0.662,0.824,0.727
+"Competition and Cooperation","single","SNN",0.817,0.814,0.834,0.823
+"Competition and Cooperation","interactive","RF",0.765,0.853,0.765,0.767
+"Competition and Cooperation","interactive","LGBM",0.852,0.928,0.852,0.852
+"Competition and Cooperation","interactive","CatBoost",0.83,0.907,0.83,0.83
+"Competition and Cooperation","interactive","FNN",0.763,0.721,0.806,0.761
+"Competition and Cooperation","interactive","FCN",0.771,0.692,0.843,0.757
+"Competition and Cooperation","interactive","SNN",0.841,0.839,0.855,0.846
+"Competition and Cooperation","integrated","RF",0.869,0.946,0.869,0.87
+"Competition and Cooperation","integrated","LGBM",0.965,0.994,0.965,0.965
+"Competition and Cooperation","integrated","CatBoost",0.949,0.987,0.949,0.949
+"Competition and Cooperation","integrated","FNN",0.923,0.915,0.936,0.925
+"Competition and Cooperation","integrated","FCN",0.924,0.904,0.949,0.926
+"Competition and Cooperation","integrated","SNN",0.962,0.964,0.963,0.964
+"Low focus and High focus","single","RF",0.77,0.857,0.77,0.771
+"Low focus and High focus","single","LGBM",0.822,0.904,0.822,0.822
+"Low focus and High focus","single","CatBoost",0.799,0.88,0.799,0.8
+"Low focus and High focus","single","FNN",0.774,0.654,0.843,0.737
+"Low focus and High focus","single","FCN",0.775,0.647,0.857,0.734
+"Low focus and High focus","single","SNN",0.816,0.804,0.814,0.808
+"Low focus and High focus","interactive","RF",0.827,0.906,0.827,0.829
+"Low focus and High focus","interactive","LGBM",0.879,0.948,0.879,0.88
+"Low focus and High focus","interactive","CatBoost",0.861,0.937,0.861,0.862
+"Low focus and High focus","interactive","FNN",0.788,0.685,0.853,0.759
+"Low focus and High focus","interactive","FCN",0.796,0.672,0.889,0.76
+"Low focus and High focus","interactive","SNN",0.856,0.847,0.857,0.852
+"Low focus and High focus","integrated","RF",0.899,0.964,0.899,0.902
+"Low focus and High focus","integrated","LGBM",0.966,0.995,0.966,0.966
+"Low focus and High focus","integrated","CatBoost",0.957,0.992,0.957,0.958
+"Low focus and High focus","integrated","FNN",0.926,0.902,0.944,0.922
+"Low focus and High focus","integrated","FCN",0.932,0.892,0.968,0.928
+"Low focus and High focus","integrated","SNN",0.957,0.959,0.953,0.956

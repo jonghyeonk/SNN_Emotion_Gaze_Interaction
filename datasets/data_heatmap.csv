@@ -1,0 +1,17 @@
+﻿Problem,Threshold,Accuracy
+Intimacy and non-Intimacy,0.25,0.8306
+Intimacy and non-Intimacy,0.5,0.8293
+Intimacy and non-Intimacy,0.75,0.8368
+Intimacy and non-Intimacy,1,0.8362
+Empathy and non-Empathy,0.25,0.8348
+Empathy and non-Empathy,0.5,0.8375
+Empathy and non-Empathy,0.75,0.8476
+Empathy and non-Empathy,1,0.8439
+Competition and Cooperation,0.25,0.8235
+Competition and Cooperation,0.5,0.8305
+Competition and Cooperation,0.75,0.8367
+Competition and Cooperation,1,0.8384
+Low focus and High focus,0.25,0.8565
+Low focus and High focus,0.5,0.8586
+Low focus and High focus,0.75,0.8572
+Low focus and High focus,1,0.86
